@@ -36,7 +36,8 @@ plot(Gt, Rmax3);
 **Output:**
 ![WhatsApp Image 2025-11-26 at 09 33 31_041ac4d2](https://github.com/user-attachments/assets/28a0ddd3-80d9-4750-94e7-2d1e02da6645)
 Manual calculation:
-
+![WhatsApp Image 2025-11-26 at 11 52 05_1cf99164](https://github.com/user-attachments/assets/0e34974f-7375-4d36-ae9f-8b8fda9a42e4)
 **Result:**
+ The evaluation of radar range using python is verified
 
 
