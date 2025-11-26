@@ -4,6 +4,7 @@
  ** Theory:**
  The Radar Range Equation is a fundamental formula used in radar system design to determine the maximum range at which a radar can detect a target. It is given by:
  ![WhatsApp Image 2025-11-26 at 09 32 51_6939cc8c](https://github.com/user-attachments/assets/3eb70800-e6cc-4db5-af00-4b8ca3062bea)
+ 
 **Procedure:**
 1.Set Up the Python Environment: Ensure that Python is installed on your system. You can use Anaconda for managing Python packages and environments, or any other Python IDE of your choice.
 2.Import Necessary Libraries: Import the math library in Python.
@@ -11,6 +12,7 @@
 4.Input Parameters for the Radar System: Define the input parameters such as transmitted power, transmitter gain, receiver gain, radar frequency, radar cross section, and minimum detectable power.
 5.Calculate the Maximum Range: Use the function to calculate the maximum range of the radar.
 6.Execute the Program: Run the Python script to calculate and display the maximum range of the radar.
+
 **Program:**
 ```
 Pt = 500;
